@@ -1,0 +1,57 @@
+.contenedor_uno h1 {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  text-align: center;
+  border-style: solid;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-family: cursive;
+}
+.contenedor_uno {
+  font-family: monospace;
+  font-size: 15px;
+}
+.contenedor_uno .texto .contexto {
+  text-align: justify;
+}
+.contenedor_uno .texto .fps {
+  text-align: justify;
+  padding-right: 300px;
+  padding-left: 50px;
+}
+.contenedor_uno .texto .tps {
+  text-align: justify;
+  padding-right: 300px;
+  padding-left: 50px;
+}
+.contenedor_dos {
+  background: #566aab;
+}
+.elemento_uno {
+  float: left;
+  width: 300px;
+  height: 500px;
+  margin: 30px;
+  padding: 3px;
+}
+.elemento_dos {
+  float: left;
+  width: 300px;
+  height: 500px;
+  margin: 30px;
+  padding: 3px;
+}
+.elemento_tres {
+  float: left;
+  width: 300px;
+  height: 500px;
+  margin: 30px;
+  padding: 3px;
+}
+.elemento_cuatro {
+  width: 300px;
+  height: 500px;
+  margin: 30px;
+  padding: 3px;
+}
