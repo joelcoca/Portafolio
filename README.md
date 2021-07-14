@@ -1,2 +1,2 @@
-# School-English
-Proyecto Interacción Humano-Maquina.
+# Portafolio
+Portafolio personal
